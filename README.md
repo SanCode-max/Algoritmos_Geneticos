@@ -14,13 +14,13 @@ Para la correcta ejecución del proyecto y el mantenimiento de las buenas práct
 1. **Clonar el repositorio:**
    ```bash
    git clone [https://github.com/SanCode-max/Algoritmos_Geneticos.git] (https://github.com/SanCode-max/Algoritmos_Geneticos.git)
-   ----ngresar a la carpeta con el comando-----
+   ----Ingresar a la carpeta con el comando-----
     cd Algoritmos_Geneticos
 
 2. Crear y activar el entorno virtual:
 
 # En Windows (PowerShell)
-python -m venv env
+python -m venv env \n 
 .\env\Scripts\activate
 
 # En Linux / macOS
