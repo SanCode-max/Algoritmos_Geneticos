@@ -20,7 +20,6 @@ Para la correcta ejecución del proyecto y el mantenimiento de las buenas práct
 2. Crear y activar el entorno virtual:
 
 # En Windows (PowerShell)
-```bash
 python -m venv env 
 .\env\Scripts\activate
 
